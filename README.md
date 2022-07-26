@@ -9,6 +9,8 @@ Software Engineer specializing in PHP & JS developing.
 :wrench:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JS Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="JS Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="JS Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="JS Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="JS Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-line-wordmark.svg" alt="JS Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="JS Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="JS Logo" width="50" height="50" />
 
 
 

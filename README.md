@@ -2,6 +2,10 @@
 
 -----
 
+Software Engineer specializing in PHP & JS developing. 
+
+-----
+
 
 
 

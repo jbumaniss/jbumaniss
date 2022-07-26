@@ -1,5 +1,7 @@
-- 👋 Hi, I’m JB
-- 👀 I’m interested in developing something fun...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: www.linkedin.com/in/jurisbumaniss
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is JB!
+
+-----
+
+
+
 

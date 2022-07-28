@@ -14,7 +14,7 @@ Software Engineer specializing in PHP & JS developing.
 
 -----
 
-[I'm an inline-style link with title](https://www.codelex.io/uznemumiem "Codelex for companies")
+[Codelex for Companies](https://www.codelex.io/uznemumiem "Codelex for companies")
 
 
 

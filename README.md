@@ -14,7 +14,7 @@ Software Engineer specializing in PHP & JS developing.
 
 -----
 
-[Codelex for Companies](https://www.codelex.io/uznemumiem "Codelex for companies")
+<img src="https://yt3.ggpht.com/0l2xQdIct2Fm8RD8axpIO_6c0i3ps-tNccxBTUvOYyFkUO9kMQrB0PSTR9mD6a3Bv9nksI4X5g=s900-c-k-c0x00ffffff-no-rj" alt="JS Logo" width="50" height="50" />[Codelex for Companies](https://www.codelex.io/uznemumiem "Codelex for companies")
 
 
 

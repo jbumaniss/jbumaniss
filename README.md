@@ -5,7 +5,7 @@
 Software Engineer specializing in PHP & JS developing. 
 
 I am passionate to learn new programming every day.
-My hobbie is to learn programming more and more, as there are so much more that can be created out theare with existing and oncomming tools.
+My hobbie is to develop new and uknown, as there are so much more that can be created with existing and oncomming tools.
 
 -----
 

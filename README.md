@@ -36,9 +36,3 @@ JB
 
 
 
-[Codelex for companies](https://www.codelex.io/uznemumiem "Codelex for companies"):
-
-[<img alt="CodelexLogo" target="_blank" width="50px" src="https://yt3.ggpht.com/0l2xQdIct2Fm8RD8axpIO_6c0i3ps-tNccxBTUvOYyFkUO9kMQrB0PSTR9mD6a3Bv9nksI4X5g=s900-c-k-c0x00ffffff-no-rj" alt="CodelexLogo" />](https://www.codelex.io/uznemumiem)
-
-
-

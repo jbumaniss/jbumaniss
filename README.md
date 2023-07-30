@@ -2,7 +2,7 @@
 
 -----
 
-Software Engineer specializing in PHP & JS developing. 
+Software Engineer specializing in PHP & JS/TS developing. 
 
 I am passionate to learn new programming every day.
 My hobbie is to develop new and uknown, as there are so much more that can be created with existing and oncomming tools.

@@ -1,4 +1,4 @@
-### Hi there [<img alt="HiWave" target="_blank" width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />](https://www.linkedin.com/in/jurisbumaniss/), My name is JB! [<img alt="LinkedInLogo" target="_blank" width="20px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />](https://www.linkedin.com/in/jurisbumaniss/)
+### [<img alt="HiWave" target="_blank" width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />](https://www.linkedin.com/in/jurisbumaniss/), Welcome to JB's GitHub [<img alt="LinkedInLogo" target="_blank" width="20px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />](https://www.linkedin.com/in/jurisbumaniss/)
 
 -----
 

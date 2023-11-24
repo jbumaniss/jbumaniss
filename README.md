@@ -10,8 +10,6 @@ My zeal for technology and continuous self-improvement keeps me on a never-endin
 
 Software development for me is more than a career, it's a passion. My journey involves not just leveraging the wide array of available tools to create unique applications, but also staying at the forefront of emerging trends, ready to harness the potential of forthcoming advancements in technology.
 
-Feel free to explore my repository of projects here on GitHub. Each one is a testament to my commitment to learning, innovation, and the continuous pursuit of excellence in software development.
-
 Looking forward to connecting, collaborating, and creating!
 
 Best,
